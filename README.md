@@ -4,7 +4,7 @@
 
 [<img src="./Animação-de-tela.gif" alt="gif do projeto tela d elogin">](https://alicetolosa.github.io/projeto-tela-login01/?#)
 
-             Clique no Gif da imagem e acesso o meu meu projeto 👆
+             Clique no Gif da imagem e acesse o meu meu projeto 👆
 
 
 
